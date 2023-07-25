@@ -1,0 +1,8 @@
+prefix=/home/cristof/courses/ros_first_steps/practica_2023.07.24/w1_ejercicio1/install
+
+Name: pkg_ejercicio1
+Description: Description of pkg_ejercicio1
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

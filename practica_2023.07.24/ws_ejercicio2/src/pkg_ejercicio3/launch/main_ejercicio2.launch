@@ -1,0 +1,6 @@
+<launch>
+  <node name="int_pub" pkg="pkg_ejercicio3" type="int_pub.py"/>  
+  <node name="int_pub1" pkg="pkg_ejercicio3" type="int_pub1.py"/>
+  <node name="int_sp_sum" pkg="pkg_ejercicio3" type="int_sp_sum.py"/>
+  <node name="int_sub_result" pkg="pkg_ejercicio3" type="int_sub_result.py" output="screen"/>
+</launch>

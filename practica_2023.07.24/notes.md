@@ -1,0 +1,4 @@
+catkin_make
+catkin_create_pkg
+source devel/setup.bash
+roslaunch

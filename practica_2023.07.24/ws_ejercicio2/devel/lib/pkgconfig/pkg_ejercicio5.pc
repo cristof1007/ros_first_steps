@@ -1,0 +1,8 @@
+prefix=/home/cristof/courses/ros_first_steps/practica_2023.07.24/ws_ejercicio2/devel
+
+Name: pkg_ejercicio5
+Description: Description of pkg_ejercicio5
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,2 @@
+pkg_ejercicio1
+-DCATKIN_DEVEL_PREFIX=/home/cristof/courses/ros_first_steps/practica_2023.07.24/w1_ejercicio1/devel -DCMAKE_INSTALL_PREFIX=/home/cristof/courses/ros_first_steps/practica_2023.07.24/w1_ejercicio1/install -G Unix Makefiles

@@ -1,0 +1,7 @@
+<launch>
+  <node name="float_pub" pkg="pkg_ejercicio4" type="float_pub.py"/>  
+  <node name="float_pub1" pkg="pkg_ejercicio4" type="float_pub1.py"/>
+  <node name="float_pub2" pkg="pkg_ejercicio4" type="float_pub2.py"/>
+  <node name="float_sp_point_integrator" pkg="pkg_ejercicio4" type="float_sp_point_integrator.py"/>
+  <node name="point_sub" pkg="pkg_ejercicio4" type="point_sub.py" output="screen"/>
+</launch>

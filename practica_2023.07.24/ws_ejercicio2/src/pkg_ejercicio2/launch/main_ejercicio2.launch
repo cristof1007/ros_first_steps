@@ -1,0 +1,5 @@
+<launch>
+  <node name="e2_float_pub" pkg="pkg_ejercicio2" type="e2_float_pub.py"/>  
+  <node name="e2_float_sp" pkg="pkg_ejercicio2" type="e2_float_sp.py"/>
+  <node name="e2_float_sub" pkg="pkg_ejercicio2" type="e2_float_sub.py" output="screen"/>
+</launch>

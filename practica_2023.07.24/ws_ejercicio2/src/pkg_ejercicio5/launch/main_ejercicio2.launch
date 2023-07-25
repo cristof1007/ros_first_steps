@@ -1,0 +1,8 @@
+<launch>
+  <node name="e1_int_pub" pkg="pkg_ejercicio5" type="e1_int_pub.py"/>  
+  <node name="e2_int_pub1" pkg="pkg_ejercicio5" type="e2_int_pub1.py"/>
+  <node name="e3_int_sp_sum" pkg="pkg_ejercicio5" type="e3_int_sp_sum.py"/>
+  <node name="e4_point_sub" pkg="pkg_ejercicio5" type="e4_point_sub.py"/>
+  <node name="e5_quaternion_sub" pkg="pkg_ejercicio5" type="e5_quaternion_sub.py"/>
+  <node name="e6_twist_sub" pkg="pkg_ejercicio5" type="e6_twist_sub.py" output="screen"/>
+</launch>
