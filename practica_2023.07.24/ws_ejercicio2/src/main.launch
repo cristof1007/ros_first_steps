@@ -1,0 +1,8 @@
+<launch>
+
+<include file="$(find pkg_ejercicio2)/launch/main_ejercicio2.launch"/>
+<include file="$(find pkg_ejercicio3)/launch/main_ejercicio2.launch"/>
+<include file="$(find pkg_ejercicio4)/launch/main_ejercicio2.launch"/>
+<include file="$(find pkg_ejercicio4)/launch/main_ejercicio2.launch"/>
+
+</launch>
