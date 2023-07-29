@@ -17,3 +17,14 @@ para ejecutarlo
 para modificar una configuracion ya hecha
     roslaunch irb4400_moveit setup_assistant.launch
 
+ejecutar moveit
+    roslaunch irb6640_moveit_package demo.launch 
+
+repositorio tutorial
+    https://github.com/WilberRojas/ROS-smartPAD/tree/kcp-v4
+
+
+para programar movimientos
+    abrir rviz con moviet
+    ejecutar la estructura
+    ejecutar la secuencia
