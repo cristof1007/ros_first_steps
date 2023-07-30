@@ -28,3 +28,20 @@ para programar movimientos
     abrir rviz con moviet
     ejecutar la estructura
     ejecutar la secuencia
+
+
+# ROS SmartPAD v4
+Tutorial: </br>
+https://youtu.be/6XYw795jLpA
+
+Paso 1: mover la carpeta /kcp a /src
+Paso 2: compilar ROS
+Paso 3: iniciar rviz
+Paso 4: ejecutar roslaunch kcp smartpad.launch group:=irb6644
+Paso 5: cd src/kcp/scripts/
+    chmod +x *.py
+    cd config_rviz/
+    chmod +x *.py
+    cd 0.\ next\ updates/
+    chmod +x *.py
+
