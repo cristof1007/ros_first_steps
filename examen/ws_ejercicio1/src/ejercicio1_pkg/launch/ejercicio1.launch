@@ -1,0 +1,6 @@
+<launch>
+  <node name="pub_1_int" pkg="ejercicio1_pkg" type="pub_1_int.py"/>  
+  <node name="pub_2_float" pkg="ejercicio1_pkg" type="pub_2_float.py"/>
+  <node name="sub_1_2_pub_point" pkg="ejercicio1_pkg" type="sub_1_2_pub_point.py"/>
+  <node name="sub_point" pkg="ejercicio1_pkg" type="sub_point.py" output="screen"/>
+</launch>
